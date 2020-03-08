@@ -1,0 +1,3 @@
+//health check ui end point
+
+http://localhost:51500/healthchecks-ui#/healthchecks
